@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="title">Countries List - This list is from REST API</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="getting_countries_list">GETTING COUNTRIES LIST</string>
+    <string name="loading">LOADING .....</string>
+</resources>
